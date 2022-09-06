@@ -1,5 +1,5 @@
 package Example;
-/*index_no: 170153K
+/*
  *
  * creates clientList.txt for saving recipient data
  * creates objects.txt for serializing all mails
